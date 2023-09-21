@@ -1,9 +1,11 @@
+@import url('https://v1.fontapi.ir/css/SFProDisplay');
+
 body {
-  font-family: 'Founders Grotesk', sans-serif;
+  font-family: SF Pro Display, sans-serif;
   color: #fff;
   font-size: 16px;
   line-height: 20px;
-  font-weight: 300;
+  font-weight: 500;
 }
 
 a {
@@ -151,11 +153,11 @@ a {
   z-index: 200;
   padding-top: 2vw;
   padding-left: 2vw;
-  font-family: 'Founders Grotesk', sans-serif;
+  font-family: SF Pro Display, sans-serif;
   color: #fff;
   font-size: 1.2vw;
   line-height: 1.3vw;
-  font-weight: 300;
+  font-weight: 500;
 }
 
 .body-small._404 {
@@ -168,7 +170,7 @@ a {
   color: #fff;
   font-size: 45vh;
   line-height: 40vh;
-  font-weight: 300;
+  font-weight: 500;
   letter-spacing: -6px;
 }
 
@@ -177,7 +179,7 @@ a {
   font-size: 45vh;
   line-height: 40vh;
   font-style: italic;
-  font-weight: 300;
+  font-weight: 500;
 }
 
 .display-text-two.italic.fade-up.mandc {
@@ -247,7 +249,7 @@ a {
   color: #fff;
   font-size: 45vh;
   line-height: 45vh;
-  font-weight: 300;
+  font-weight: 500;
   letter-spacing: -6px;
 }
 
@@ -366,11 +368,11 @@ a {
 .body-large {
   -webkit-transition: opacity 350ms ease;
   transition: opacity 350ms ease;
-  font-family: 'Founders Grotesk', sans-serif;
+  font-family: SF Pro Display, sans-serif;
   color: #394437;
   font-size: 26px;
   line-height: 32px;
-  font-weight: 300;
+  font-weight: 500;
 }
 
 .body-large.gauge {
@@ -390,14 +392,14 @@ a {
   color: #fff;
   font-size: 15vw;
   line-height: 13vw;
-  font-weight: 300;
+  font-weight: 500;
   text-align: center;
 }
 
 .intro-display.italic {
   color: #fff;
   font-style: italic;
-  font-weight: 300;
+  font-weight: 500;
 }
 
 .intro-display.location {
@@ -536,13 +538,13 @@ a {
   color: #fff;
   font-size: 15vw;
   line-height: 13vw;
-  font-weight: 300;
+  font-weight: 500;
   text-align: center;
 }
 
 .h2.italic {
   font-style: italic;
-  font-weight: 300;
+  font-weight: 500;
 }
 
 .h2.fade-up3.mandc {
@@ -550,7 +552,7 @@ a {
   font-family: Oggtext, sans-serif;
   font-size: 5.5vw;
   line-height: 6vw;
-  font-weight: 300;
+  font-weight: 500;
   text-align: left;
 }
 
@@ -559,13 +561,13 @@ a {
   font-family: Oggtext, sans-serif;
   font-size: 5.5vw;
   line-height: 6vw;
-  font-weight: 300;
+  font-weight: 500;
 }
 
 .heading-two.italic {
   color: #6c8c77;
   font-style: italic;
-  font-weight: 300;
+  font-weight: 500;
 }
 
 .heading-two.light {
@@ -738,13 +740,13 @@ a {
   color: #fff;
   font-size: 24vh;
   line-height: 17vh;
-  font-weight: 300;
+  font-weight: 500;
   text-align: center;
 }
 
 .location-display.italic {
   font-style: italic;
-  font-weight: 300;
+  font-weight: 500;
 }
 
 .location-display.location {
@@ -862,7 +864,7 @@ a {
 
 .heading {
   font-family: Oggtext, sans-serif;
-  font-weight: 300;
+  font-weight: 500;
 }
 
 .italic {
@@ -1013,13 +1015,13 @@ a {
   color: #6c8c77;
   font-size: 3.6vw;
   line-height: 4vw;
-  font-weight: 300;
+  font-weight: 500;
 }
 
 .heading-three.italic {
   color: #6c8c77;
   font-style: italic;
-  font-weight: 300;
+  font-weight: 500;
 }
 
 .heading-three.light {
@@ -1317,7 +1319,7 @@ a {
   font-family: Oggtext, sans-serif;
   font-size: 12vw;
   line-height: 12vw;
-  font-weight: 300;
+  font-weight: 500;
   text-align: center;
 }
 
@@ -1414,7 +1416,7 @@ a {
   color: #fff;
   font-size: 45vh;
   line-height: 40vh;
-  font-weight: 300;
+  font-weight: 500;
   letter-spacing: -6px;
 }
 
@@ -1423,7 +1425,7 @@ a {
   font-size: 45vh;
   line-height: 40vh;
   font-style: italic;
-  font-weight: 300;
+  font-weight: 500;
 }
 
 .display-text-two-2.fade-up.mandc {
@@ -1471,7 +1473,7 @@ a {
   color: #fff;
   font-size: 45vh;
   line-height: 45vh;
-  font-weight: 300;
+  font-weight: 500;
   letter-spacing: -6px;
 }
 
@@ -1563,7 +1565,7 @@ a {
   font-family: Oggtext, sans-serif;
   font-size: 12vw;
   line-height: 11vw;
-  font-weight: 300;
+  font-weight: 500;
   text-align: center;
 }
 
@@ -1625,11 +1627,11 @@ a {
 
 .body-large-basic2 {
   margin-top: 0px;
-  font-family: 'Founders Grotesk', sans-serif;
+  font-family: SF Pro Display, sans-serif;
   color: #fff;
   font-size: 26px;
   line-height: 32px;
-  font-weight: 300;
+  font-weight: 500;
   text-align: center;
 }
 
@@ -1663,11 +1665,11 @@ a {
 
 .body-large-basic {
   margin-top: 30px;
-  font-family: 'Founders Grotesk', sans-serif;
+  font-family: SF Pro Display, sans-serif;
   color: #fff;
   font-size: 26px;
   line-height: 32px;
-  font-weight: 300;
+  font-weight: 500;
   text-align: center;
 }
 
@@ -1676,11 +1678,11 @@ a {
   z-index: 20;
   margin-top: 0px;
   margin-left: 30px;
-  font-family: 'Founders Grotesk', sans-serif;
+  font-family: SF Pro Display, sans-serif;
   color: #fff;
   font-size: 4vw;
   line-height: 4vw;
-  font-weight: 300;
+  font-weight: 500;
   text-align: left;
   text-decoration: none;
 }
@@ -1767,11 +1769,11 @@ a {
 
 .footer-text {
   z-index: 120;
-  font-family: 'Founders Grotesk', sans-serif;
+  font-family: SF Pro Display, sans-serif;
   color: #fff;
   font-size: 22px;
   line-height: 18px;
-  font-weight: 300;
+  font-weight: 500;
 }
 
 .footer-text.right {
@@ -1829,7 +1831,7 @@ a {
   color: #6c8c77;
   font-size: 32px;
   line-height: 38px;
-  font-weight: 300;
+  font-weight: 500;
   text-align: center;
   letter-spacing: 0px;
 }
@@ -1837,7 +1839,7 @@ a {
 .loading.clone {
   font-family: Oggtext, sans-serif;
   color: #3d5549;
-  font-weight: 300;
+  font-weight: 500;
   letter-spacing: 0px;
 }
 
@@ -1918,11 +1920,11 @@ a {
   z-index: 120;
   -webkit-transition: color 200ms ease;
   transition: color 200ms ease;
-  font-family: 'Founders Grotesk', sans-serif;
+  font-family: SF Pro Display, sans-serif;
   color: #fff;
   font-size: 22px;
   line-height: 18px;
-  font-weight: 300;
+  font-weight: 500;
   cursor: none;
 }
 
@@ -1935,11 +1937,11 @@ a {
   padding-top: 5px;
   -webkit-transition: color 200ms ease;
   transition: color 200ms ease;
-  font-family: 'Founders Grotesk', sans-serif;
+  font-family: SF Pro Display, sans-serif;
   color: #fff;
   font-size: 22px;
   line-height: 18px;
-  font-weight: 300;
+  font-weight: 500;
   cursor: none;
 }
 
@@ -2050,7 +2052,7 @@ a {
   color: #2c3129;
   font-size: 11px;
   line-height: 11px;
-  font-weight: 300;
+  font-weight: 500;
   text-align: center;
   text-transform: uppercase;
 }
@@ -2103,7 +2105,7 @@ a {
   color: #3d5549;
   font-size: 15vw;
   line-height: 15vw;
-  font-weight: 300;
+  font-weight: 500;
 }
 
 .counter-1 {
@@ -2120,7 +2122,7 @@ a {
   color: #3d5549;
   font-size: 15vw;
   line-height: 15vw;
-  font-weight: 300;
+  font-weight: 500;
 }
 
 .hero-hide {
@@ -3127,21 +3129,21 @@ a {
 @font-face {
   font-family: 'Founders Grotesk';
   src: url('../fonts/founders-grotesk-light.woff2') format('woff2');
-  font-weight: 300;
+  font-weight: 500;
   font-style: normal;
   font-display: block;
 }
 @font-face {
   font-family: 'Oggtext';
   src: url('../fonts/OggText-Light.woff2') format('woff2'), url('../fonts/OggText-Light.eot') format('embedded-opentype'), url('../fonts/OggText-Light.woff') format('woff');
-  font-weight: 300;
+  font-weight: 500;
   font-style: normal;
   font-display: block;
 }
 @font-face {
   font-family: 'Oggtext';
   src: url('../fonts/OggText-LightItalic.woff2') format('woff2'), url('../fonts/OggText-LightItalic.eot') format('embedded-opentype'), url('../fonts/OggText-LightItalic.woff') format('woff');
-  font-weight: 300;
+  font-weight: 500;
   font-style: italic;
   font-display: block;
 }
