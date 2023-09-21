@@ -168,9 +168,9 @@ a {
   margin-top: 0px;
   font-family: SF Pro Display, sans-serif;
   color: #fff;
-  font-size: 45vh;
+  font-size: 40vh;
   line-height: 40vh;
-  font-weight: 500;
+  font-weight: 700;
   letter-spacing: -6px;
 }
 
@@ -246,9 +246,9 @@ a {
   margin-bottom: -5vw;
   font-family: SF Pro Display, sans-serif;
   color: #fff;
-  font-size: 45vh;
-  line-height: 45vh;
-  font-weight: 500;
+  font-size: 40vh;
+  line-height: 40vh;
+  font-weight: 700;
   letter-spacing: -6px;
 }
 
@@ -391,7 +391,7 @@ a {
   color: #fff;
   font-size: 15vw;
   line-height: 13vw;
-  font-weight: 500;
+  font-weight: 700;
   text-align: center;
 }
 
@@ -536,7 +536,7 @@ a {
   color: #fff;
   font-size: 15vw;
   line-height: 13vw;
-  font-weight: 500;
+  font-weight: 700;
   text-align: center;
 }
 
@@ -549,7 +549,7 @@ a {
   font-family: SF Pro Display, sans-serif;
   font-size: 5.5vw;
   line-height: 6vw;
-  font-weight: 500;
+  font-weight: 700;
   text-align: left;
 }
 
@@ -558,7 +558,7 @@ a {
   font-family: SF Pro Display, sans-serif;
   font-size: 5.5vw;
   line-height: 6vw;
-  font-weight: 500;
+  font-weight: 700;
 }
 
 .heading-two.italic {
@@ -736,7 +736,7 @@ a {
   color: #fff;
   font-size: 24vh;
   line-height: 17vh;
-  font-weight: 500;
+  font-weight: 700;
   text-align: center;
 }
 
@@ -859,12 +859,12 @@ a {
 
 .heading {
   font-family: SF Pro Display, sans-serif;
-  font-weight: 500;
+  font-weight: 700;
 }
 
 .italic {
   color: #6c8c77;
-  font-style: italic;
+  
 }
 
 .light-lottie-container {
@@ -1010,7 +1010,7 @@ a {
   color: #6c8c77;
   font-size: 3.6vw;
   line-height: 4vw;
-  font-weight: 500;
+  font-weight: 700;
 }
 
 .heading-three.italic {
@@ -1024,7 +1024,7 @@ a {
 }
 
 .italics {
-  font-style: italic;
+  
 }
 
 .light-col-1 {
@@ -1410,7 +1410,7 @@ a {
   color: #fff;
   font-size: 45vh;
   line-height: 40vh;
-  font-weight: 500;
+  font-weight: 700;
   letter-spacing: -6px;
 }
 
@@ -1466,7 +1466,7 @@ a {
   color: #fff;
   font-size: 45vh;
   line-height: 45vh;
-  font-weight: 500;
+  font-weight: 700;
   letter-spacing: -6px;
 }
 
@@ -1558,7 +1558,7 @@ a {
   font-family: SF Pro Display, sans-serif;
   font-size: 12vw;
   line-height: 11vw;
-  font-weight: 500;
+  font-weight: 700;
   text-align: center;
 }
 
@@ -1722,7 +1722,7 @@ a {
 }
 
 .text-span {
-  font-style: italic;
+
 }
 
 .div-block-9 {
@@ -1832,7 +1832,7 @@ a {
 .loading.clone {
   font-family: SF Pro Display, sans-serif;
   color: #3d5549;
-  font-weight: 500;
+  font-weight: 700;
   letter-spacing: 0px;
 }
 
