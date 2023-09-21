@@ -166,7 +166,7 @@ a {
 
 .display-text-two {
   margin-top: 0px;
-  font-family: Oggtext, sans-serif;
+  font-family: SF Pro Display, sans-serif;
   color: #fff;
   font-size: 45vh;
   line-height: 40vh;
@@ -178,8 +178,7 @@ a {
   color: #fff;
   font-size: 45vh;
   line-height: 40vh;
-  font-style: italic;
-  font-weight: 500;
+  font-weight: 700;
 }
 
 .display-text-two.italic.fade-up.mandc {
@@ -245,7 +244,7 @@ a {
 .display-text-one {
   margin-top: 0px;
   margin-bottom: -5vw;
-  font-family: Oggtext, sans-serif;
+  font-family: SF Pro Display, sans-serif;
   color: #fff;
   font-size: 45vh;
   line-height: 45vh;
@@ -388,7 +387,7 @@ a {
 }
 
 .intro-display {
-  font-family: Oggtext, sans-serif;
+  font-family: SF Pro Display, sans-serif;
   color: #fff;
   font-size: 15vw;
   line-height: 13vw;
@@ -398,8 +397,7 @@ a {
 
 .intro-display.italic {
   color: #fff;
-  font-style: italic;
-  font-weight: 500;
+  font-weight: 700;
 }
 
 .intro-display.location {
@@ -534,7 +532,7 @@ a {
 }
 
 .h2 {
-  font-family: Oggtext, sans-serif;
+  font-family: SF Pro Display, sans-serif;
   color: #fff;
   font-size: 15vw;
   line-height: 13vw;
@@ -543,13 +541,12 @@ a {
 }
 
 .h2.italic {
-  font-style: italic;
-  font-weight: 500;
+  font-weight: 700;
 }
 
 .h2.fade-up3.mandc {
   max-width: 48vw;
-  font-family: Oggtext, sans-serif;
+  font-family: SF Pro Display, sans-serif;
   font-size: 5.5vw;
   line-height: 6vw;
   font-weight: 500;
@@ -558,7 +555,7 @@ a {
 
 .heading-two {
   margin-bottom: 0px;
-  font-family: Oggtext, sans-serif;
+  font-family: SF Pro Display, sans-serif;
   font-size: 5.5vw;
   line-height: 6vw;
   font-weight: 500;
@@ -566,8 +563,7 @@ a {
 
 .heading-two.italic {
   color: #6c8c77;
-  font-style: italic;
-  font-weight: 500;
+  font-weight: 700;
 }
 
 .heading-two.light {
@@ -736,7 +732,7 @@ a {
 
 .location-display {
   position: relative;
-  font-family: Oggtext, sans-serif;
+  font-family: SF Pro Display, sans-serif;
   color: #fff;
   font-size: 24vh;
   line-height: 17vh;
@@ -745,8 +741,7 @@ a {
 }
 
 .location-display.italic {
-  font-style: italic;
-  font-weight: 500;
+  font-weight: 700;
 }
 
 .location-display.location {
@@ -863,7 +858,7 @@ a {
 }
 
 .heading {
-  font-family: Oggtext, sans-serif;
+  font-family: SF Pro Display, sans-serif;
   font-weight: 500;
 }
 
@@ -1011,7 +1006,7 @@ a {
 
 .heading-three {
   margin-bottom: 0px;
-  font-family: Oggtext, sans-serif;
+  font-family: SF Pro Display, sans-serif;
   color: #6c8c77;
   font-size: 3.6vw;
   line-height: 4vw;
@@ -1020,8 +1015,7 @@ a {
 
 .heading-three.italic {
   color: #6c8c77;
-  font-style: italic;
-  font-weight: 500;
+  font-weight: 700;
 }
 
 .heading-three.light {
@@ -1316,7 +1310,7 @@ a {
 
 .heading-display {
   margin-bottom: 0px;
-  font-family: Oggtext, sans-serif;
+  font-family: SF Pro Display, sans-serif;
   font-size: 12vw;
   line-height: 12vw;
   font-weight: 500;
@@ -1412,7 +1406,7 @@ a {
 
 .display-text-two-2 {
   margin-top: 0px;
-  font-family: Oggtext, sans-serif;
+  font-family: SF Pro Display, sans-serif;
   color: #fff;
   font-size: 45vh;
   line-height: 40vh;
@@ -1424,8 +1418,7 @@ a {
   color: #fff;
   font-size: 45vh;
   line-height: 40vh;
-  font-style: italic;
-  font-weight: 500;
+  font-weight: 700;
 }
 
 .display-text-two-2.fade-up.mandc {
@@ -1469,7 +1462,7 @@ a {
 .display-text-one-2 {
   margin-top: 0px;
   margin-bottom: -5vw;
-  font-family: Oggtext, sans-serif;
+  font-family: SF Pro Display, sans-serif;
   color: #fff;
   font-size: 45vh;
   line-height: 45vh;
@@ -1562,7 +1555,7 @@ a {
 .basic-heading {
   margin-top: 0px;
   margin-bottom: 0px;
-  font-family: Oggtext, sans-serif;
+  font-family: SF Pro Display, sans-serif;
   font-size: 12vw;
   line-height: 11vw;
   font-weight: 500;
@@ -1827,7 +1820,7 @@ a {
   display: none;
   margin-top: 0px;
   margin-bottom: 0px;
-  font-family: Oggtext, sans-serif;
+  font-family: SF Pro Display, sans-serif;
   color: #6c8c77;
   font-size: 32px;
   line-height: 38px;
@@ -1837,7 +1830,7 @@ a {
 }
 
 .loading.clone {
-  font-family: Oggtext, sans-serif;
+  font-family: SF Pro Display, sans-serif;
   color: #3d5549;
   font-weight: 500;
   letter-spacing: 0px;
@@ -1848,7 +1841,7 @@ a {
   top: 35vh;
   z-index: 10;
   display: none;
-  font-family: Oggtext, sans-serif;
+  font-family: SF Pro Display, sans-serif;
   color: #3d5549;
   font-size: 80px;
   line-height: 80px;
@@ -2101,7 +2094,7 @@ a {
   z-index: 9999;
   margin-top: 0px;
   margin-bottom: 1vw;
-  font-family: Oggtext, sans-serif;
+  font-family: SF Pro Display, sans-serif;
   color: #3d5549;
   font-size: 15vw;
   line-height: 15vw;
@@ -2118,7 +2111,7 @@ a {
   z-index: 9999;
   margin-top: 0px;
   margin-bottom: 1vw;
-  font-family: Oggtext, sans-serif;
+  font-family: SF Pro Display, sans-serif;
   color: #3d5549;
   font-size: 15vw;
   line-height: 15vw;
